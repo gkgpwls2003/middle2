@@ -1,4 +1,4 @@
-# middle2 readme file
+# statistics class readme file
 how to use markdown - work
 ## name : Hyejin Ha
 ## major : international logistics
